@@ -1,0 +1,4 @@
+div[aria-label="Comment"], div[aria-label="Comment reply"] {
+    visibility: hidden;
+    height: 0;
+}
